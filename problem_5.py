@@ -6,6 +6,6 @@ It has one parameter:
 string - the string containing the sentence
 Return value: a string - the version of the sentence with its words reversed. Write some extra code to test this function and verify that it works properly.'''
 
-words = [ "to","be"," or", "not", "to"," be"]
+words = [ "to be or not to be"]
 words.reverse()
 print (words)
